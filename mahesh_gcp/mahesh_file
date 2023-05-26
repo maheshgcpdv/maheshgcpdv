@@ -55,6 +55,8 @@ if its usa project you can login 12
 create view view_name as select col1, col2, from table;
 authorization --->view---->reports
 
+git push is completed succesfully
+
 modify value---->view
 
 
